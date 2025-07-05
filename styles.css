@@ -1,6 +1,5 @@
 body{
     background-color: burlywood;
-
 }
 
 nav {
@@ -10,8 +9,6 @@ nav {
     overflow: hidden;
     border-radius: 10px;
 }
-
-
 
 nav p{
     
@@ -54,7 +51,6 @@ nav a:hover {
     border-radius: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
-    display: flex;
 }
 
 .section3 {
@@ -63,13 +59,11 @@ nav a:hover {
     border-radius: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
-    display: flex;
 }
 
 .series-list{
     display:flex;
     justify-content:space-evenly;
-    display: flex;
 }
 
 .section4 {
@@ -78,7 +72,7 @@ nav a:hover {
     border-radius: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
-    display: flex;
+    
 }
 
 .section_table, table , td{
@@ -90,7 +84,6 @@ nav a:hover {
     margin-bottom: 20px;
     margin-top: 20px;
     text-decoration: none;
-    display: flex;
 }
 
 td{
