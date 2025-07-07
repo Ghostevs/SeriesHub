@@ -6,7 +6,7 @@ body{
   body {
     font-size: 14px;
   }
-  img:not(.favicon){
+  img:not(.the_logo){
       width: 45%;
       height: auto;
   }
