@@ -15,17 +15,18 @@ nav p{
 }
 
 nav a {
-    float: right;
-    display: block;
+    display: inline-block;
     color: white;
     text-align: center;
     margin-top: 20px;
-    padding: 14px 50px;
+    margin-bottom: 12px;
+    padding: 14px 5%;
     text-decoration: none;
+    
 }
 
 nav a:hover {
-  background-color: #ddd;
+  background-color: wheat;
   color: black;
 }
 
@@ -62,10 +63,14 @@ nav a:hover {
 }
 
 .series-list{
-    display:flex;
+    display: flex;
     justify-content:space-evenly;
 }
 
+.series-list li{
+    display: inline-block;
+    width: 33%;
+}
 .section4 {
     background-color: wheat;
     padding: 20px;
