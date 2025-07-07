@@ -2,11 +2,7 @@ body{
     background-color: burlywood;
 }
 
-@media (max-width: 768px) {
-  body {
-    font-size: 14px;
-  }
-}
+
 nav {
     display: flex;
     justify-content:space-evenly;
