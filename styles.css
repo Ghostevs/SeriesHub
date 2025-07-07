@@ -6,14 +6,19 @@ body{
   body {
     font-size: 14px;
   }
-  img:not(.the_logo){
+  img:not(.the_logo, .exclusive){
       width: 45%;
       height: auto;
   }
 
   .exclusive {
-      width: 80%;
+      width: 40%;
       height: auto;
+  }
+
+  li {
+    width: 100%; /* stack on small screens */
+    margin: 5px 0;
   }
 }
 
